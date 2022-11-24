@@ -14,3 +14,21 @@ article{
 .porth3{
     color: aqua;
 }
+.tagline1 {
+    text-align: center;
+    font-size: 120px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.tagline2 {
+    text-align: center;
+    font-size: 60px;
+    background-color: white;
+}
+.maincontainer-tagline {
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    height: 600px;
+    background-position: bottom;
+    padding-top: 60px;
+}
