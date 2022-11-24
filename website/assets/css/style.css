@@ -1,3 +1,15 @@
 body{
     background: #BDBDBD;
 }
+.first-heading{
+    border: red dotted;
+    background-color: white;
+}
+
+.walter{
+    object-fit: cover;
+    object-position: 100% 40%;
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+}
