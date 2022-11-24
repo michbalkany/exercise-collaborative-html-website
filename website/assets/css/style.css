@@ -44,3 +44,82 @@ article{
     background-position: bottom;
     padding-top: 60px;
 }
+/* body{
+    background: white;
+    margin: 0px 250px 250px 0px;
+} */
+.secheading{
+    display:flex;
+    flex-direction:row;
+}
+.heading{
+    display: flex;
+    justify-content: right;
+    padding:150px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+h2{
+    font-weight: bold;
+    font-size: 2.0em;
+}
+.greyH{
+    color: grey;
+}
+img{
+    display: flex;
+    object-fit: cover;
+    object-position: top;
+    width: 225px;
+    height: 225px;
+    border-radius: 1000%;
+}
+.body{
+    padding-right: 800px;
+    padding-left: 10px;
+}
+/* body {
+    width: 1000px;
+    padding-left: 100px;
+    } */
+    .words{
+    font-size: 20px;
+    }
+    .button {
+    padding-left: 600px;
+    padding-top: 10px;
+    }
+    .boxes {
+    width: 400px;
+    float: right;
+    }
+    label {
+    /*padding-left: 200px;*/
+    }
+    .mb-3 {
+    padding-left: 75px;
+    /* display: flex;
+    flex-direction: row;
+    margin: auto; */
+    }
+    form {
+        height: 250px;
+        width: 700px;
+        background-color: rgba(240, 235, 228, 0.3);
+        /*margin-left: 100px;*/
+        padding-right: 20px;
+        padding-top: 10px;
+        
+        }
+
+
+
+
+
+
+
+
+
+
+
+
